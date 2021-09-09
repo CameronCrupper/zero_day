@@ -1,0 +1,1 @@
+Project 0x02.vi is about the basic commands to use for vi(m) in Linux
